@@ -19,6 +19,16 @@ public class EmpBean {
 
     private String deptName;
 
+    private Integer haha;
+
+    public Integer getHaha() {
+        return haha;
+    }
+
+    public void setHaha(Integer haha) {
+        this.haha = haha;
+    }
+
     public String getDeptName() {
         return deptName;
     }
